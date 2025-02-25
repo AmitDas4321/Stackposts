@@ -6,7 +6,6 @@ Stackposts is a Python-based tool designed to automate user signups on a specifi
 ## Features
 - **Domain Setup**: Allows users to input and change domains.
 - **Random User Generation**: Dynamically generates random user details for each signup attempt.
-- **Firebase Integration**: Ensures that only allowed domains are used for signups.
 - **Logs Successful Signups**: All successful signups are logged in a domain-specific log file.
 
 ## Prerequisites
