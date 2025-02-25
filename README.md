@@ -1,4 +1,3 @@
-```markdown
 # Stackposts - Continuous Signup Script
 
 ## Overview
