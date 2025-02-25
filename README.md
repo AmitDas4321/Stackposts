@@ -41,7 +41,7 @@ python3 Stackposts.py
 Here are some screenshots of the script in action:
 
 **1️⃣ Running the script and generating users**
-![Running the script]([https://i.ibb.co/example1.png](https://i.ibb.co/qFXcdKtD/Screenshot-2025-02-25-14-33-56.png))
+![Running the script](https://i.ibb.co/qFXcdKtD/Screenshot-2025-02-25-14-33-56.png)
 
 **2️⃣ Signup logs showing successful registrations**
 ![Signup logs](https://i.ibb.co/example2.png)
