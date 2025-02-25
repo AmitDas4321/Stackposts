@@ -1,7 +1,3 @@
-Here's an updated version of your README with added **screenshots** and a **mention that the script works with Waziper-based sites**.
-
----
-
 # Stackposts - Continuous Signup Script
 
 ## Overview
