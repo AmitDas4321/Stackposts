@@ -38,13 +38,14 @@ python3 Stackposts.py
 ```
 
 ## 📷 Screenshots
-Here are some screenshots of the script in action:
+Below are some **screenshots (1577x887)** of the script in action:
 
-**1️⃣ Running the script and generating users**
-![Running the script](https://i.ibb.co/qFXcdKtD/Screenshot-2025-02-25-14-33-56.png)
+**1️⃣ Running the script and generating users**  
+![Running the script](https://i.ibb.co/qFXcdKtD/Screenshot-2025-02-25-14-33-56.png)  
 
-**2️⃣ Signup logs showing successful registrations**
-![Signup logs](https://i.ibb.co/example2.png)
+(You can add more images as needed.)
+
+📌 **Ensure that your images are in 1577x887 resolution for better visibility.**  
 
 ## 📝 Usage
 Once the script is running, it will:
