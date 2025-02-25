@@ -37,6 +37,12 @@ Run the script using Python 3:
 python3 Stackposts.py
 ```
 
+### 4️⃣ Run Script in Single Command (Opctional)
+Navigate to the cloned repository folder:
+```bash
+cd Stackposts && python3 Stackposts.py
+```
+
 ## 📷 Screenshots
 Here are some screenshots of the script in action:
 
