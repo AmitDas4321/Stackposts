@@ -1,7 +1,7 @@
 # Stackposts - Continuous Signup Script
 
 ## Overview
-Stackposts is a Python-based tool designed to automate user signups on a specified domain. It checks the disallowed domains from Firebase and generates random user information such as full names, usernames, emails, and phone numbers to simulate signups.
+Stackposts is a Python-based tool designed to automate user signups on a specified domain. It generates random user information such as full names, usernames, emails, and phone numbers to simulate signups.
 
 ## Features
 - **Domain Setup**: Allows users to input and change domains.
@@ -11,7 +11,7 @@ Stackposts is a Python-based tool designed to automate user signups on a specifi
 ## Prerequisites
 Ensure you have the following installed:
 - **Python 3.x**: The script requires Python 3 or later.
-- **Internet Connection**: The script communicates with Firebase to check disallowed domains.
+- **Internet Connection**: The script requires an active internet connection to perform the signups.
 
 ## Installation
 
@@ -34,4 +34,4 @@ python3 Stackposts.py
 ```
 
 ## Usage
-Once the script is running, it will automatically check the allowed domains from Firebase and proceed with signing up random users. The script will also log all successful signups in a domain-specific log file.
+Once the script is running, it will automatically check the allowed domains and proceed with signing up random users. The script will also log all successful signups in a domain-specific log file.
