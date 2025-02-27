@@ -1,6 +1,6 @@
 # ENCODED BY : AmitDas
 # ENCRYPTION : B64+ZLIB+MARSHAL
-# Telegram : https://t.me/AmitDas
+# Telegram : https://t.me/AmitDas4321
 # Github : https://github.com/AmitDas4321
 # ----------------------------------------------
 
