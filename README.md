@@ -36,13 +36,13 @@ cd Stackposts
 ### 3️⃣ Run the Script
 Run the script using Python 3:
 ```bash
-python3 Stackposts.py
+python3 setup.py
 ```
 
 ### 4️⃣ Run Script in Single Command (Opctional)
 Navigate to the cloned repository folder:
 ```bash
-cd Stackposts && python3 Stackposts.py
+cd Stackposts && python3 setup.py
 ```
 
 ## 📷 Screenshots
