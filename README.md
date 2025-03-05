@@ -1,6 +1,6 @@
 # Stackposts - Continuous Signup Script
 
-![Hero Image](https://i.ibb.co/HL5hcz9S/OPPORTUNITIES.png)
+![Hero Image](https://camo.githubusercontent.com/986e08b2afef853d417e13875ae8011a44d1221d8a0177bdbef218446b886f6c/68747470733a2f2f692e6962622e636f2f484c3568637a39532f4f50504f5254554e49544945532e706e67)
 
 ## Overview
 Stackposts is a **Python-based automation tool** designed to **continuously register users** on a specified domain. It dynamically generates **random user information** such as full names, usernames, emails, and phone numbers to simulate signups.
