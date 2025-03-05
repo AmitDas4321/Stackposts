@@ -48,11 +48,11 @@ Here are some screenshots of the script in action:
 
 **1️⃣ Running the script and generating users**
 
-![Running the script](https://i.ibb.co/8nXSZRY0/Running-the-script.png)
+![Running the script](https://camo.githubusercontent.com/63c4b54dd96d998fc92f7d29e6a9b43803de314801c4e4a91f39867de92cf3c8/68747470733a2f2f692e6962622e636f2f386e58535a5259302f52756e6e696e672d7468652d7363726970742e706e67)
 
 **2️⃣ Signup logs showing successful registrations**
 
-![Signup logs](https://i.ibb.co/wh5JGzsK/Signup-logs.png)
+![Signup logs](https://camo.githubusercontent.com/8896cf70492bd01fec5915eed7342dac5c547721b9eccf3e0d1de48db5b16b3c/68747470733a2f2f692e6962622e636f2f7768354a477a734b2f5369676e75702d6c6f67732e706e67)
 
 ## 📝 Usage
 Once the script is running, it will:
